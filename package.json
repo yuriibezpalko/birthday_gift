@@ -1,0 +1,22 @@
+{
+  "name": "birthday_gift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriibezpalko/birthday_gift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriibezpalko/birthday_gift/issues"
+  },
+  "homepage": "https://github.com/yuriibezpalko/birthday_gift#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.1"
+  }
+}
